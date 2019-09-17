@@ -3,3 +3,4 @@
 지화 중 자음 번역
 
 PythonApplication3
+sum_sign.csv 사용
